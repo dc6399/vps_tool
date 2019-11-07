@@ -1,0 +1,35 @@
+上午 09:28 2019/06/28/星期五報告V大，除了okwcp.com、699caipiao.com、www.699caipiao.com、wwwc65.com、www.wwwc58.com、wwwc58.com域名污染、www-366.com wap出現404 Not Found訊息，01c66.com web正常顯示頁面，其他新系統wap頁面檢查正常
+
+
+報告V大，除了okwcp.com、699caipiao.com、www.699caipiao.com、wwwc65.com、www.wwwc58.com、wwwc58.com域名污染、www-366.com wap出現404 Not Found訊息，01c66.com web正常顯示頁面，其他新系統wap頁面檢查正常
+
+
+報告V大，除了okwcp.com、699caipiao.com、www.699caipiao.com、wwwc65.com、wwwc58.com域名污染、www-366.com wap出現404 Not Found訊息，www.wwwc58.com會出現下載檔案動作，其檔案檔名為"下載"，01c66.com web正常顯示頁面，其他新系統wap頁面檢查正常
+
+
+報告V大，除了9w96.com、okwcp.com、699caipiao.com、www.699caipiao.com、wwwc65.com、www.wwwc58.com、wwwc58.com、www500vip.net、2210cp.com、www.2210cp.com、95c8.com、www.95c8.com域名污染，01c66.com WEB呈現正常網站頁面非空白頁，其他開啟WAP呈現跳轉APP下載頁面，WEB呈現空白頁面
+
+
+
+
+
+9w96.com
+okwcp.com
+699caipiao.com
+wwwc65.com
+wwwc58.com
+www500vip.net
+2210cp.com
+95c8.com
+cai33.net
+
+
+9w96.com	                  被牆	污染
+okwcp.com	正常	污染
+699caipiao.com	正常	污染
+wwwc65.com	正常	污染
+wwwc58.com	正常	污染
+www500vip.net	正常	污染
+2210cp.com	正常	污染
+95c8.com	                  正常	污染
+cai33.net	                  被牆	正常
